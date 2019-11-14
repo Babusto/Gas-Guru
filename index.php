@@ -107,6 +107,6 @@ require 'resources/footer_guest.php';
 require 'resources/targetframe_guest.php';
 ?>
 <!-- FOOTER -->
-
+Thank you
 </body>
 </html>
