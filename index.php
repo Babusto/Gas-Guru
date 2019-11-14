@@ -20,7 +20,6 @@ require 'resources/info.php';
 ?>
 <!-- HEADER -->
 
-
 <!-- MAIN -->
 <div class="custom-hero">
 	
